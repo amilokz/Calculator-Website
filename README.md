@@ -33,7 +33,7 @@ Includes a sleek **animated background**, **interactive navbar**, and **extra pa
 
 ![Calculator Screenshot](https://github.com/amilokz/Calculator-Website/raw/main/preview.png)
 
-> *Tip: Add a screenshot named `preview.png` to your project root to show here.*
+
 
 ---
 
